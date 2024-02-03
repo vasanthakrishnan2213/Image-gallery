@@ -1,0 +1,28 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: black;
+}
+#a{
+    color: white;
+    padding: 10px;
+    height: 50px;
+    text-align: center;
+    display: block;
+}
+.ina{
+    color: white;
+    width: 200px;
+    flex-basis: 25%;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10px;
+    justify-content: space-between;
+    margin: 30px;
+    
+}
